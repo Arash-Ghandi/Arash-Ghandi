@@ -1,5 +1,5 @@
 # Arash Ghandi
-## Developer | IT Project Manager<br>
+## Full Stack Developer | IT Project Manager<br>
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [aroon.mailbox@gmail.com](mailto:aroon.mailbox@gmail.com)
