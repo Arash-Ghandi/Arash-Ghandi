@@ -1,5 +1,5 @@
 # Arash Ghandi
-## Full Stack Developer | Data Scientist | AI | ML<br>
+## AI Enthusiast | Full Stack Developer<br>
 
 * 🌍  I'm based in Germany
 * 🌍 www.aroontech.com
